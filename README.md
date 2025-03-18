@@ -63,7 +63,7 @@ pip install ffmpeg-python gTTS pydub pysrt deep-translator
 
 ```bash
 
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/angelojbgama/VideoTTS-Syncer.git
 
 ```
 
@@ -71,7 +71,7 @@ pip install ffmpeg-python gTTS pydub pysrt deep-translator
 
 ```bash
 
-   cd nome-do-repositorio
+   cd VideoTTS-Syncer
 
 ```
 
